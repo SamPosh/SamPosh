@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamPosh
-- 👀 I’m interested in programming languages and technology. 
-- 🌱 I’m currently learning python,kubernetes
+- 👀 I’m interested in programming languages and technologies
+- 🌱 I’m currently working with python and kubernetes. I am working on API testing and Performance testing automation
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
